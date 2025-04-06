@@ -1,8 +1,22 @@
-# React + Vite
+# To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A classic MERN stack to-do app with task creation, editing, and completion tracking.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create, edit, delete tasks
+- Mark tasks as complete
+- Store tasks in MongoDB
+- Real-time updates with React
+
+## Installation
+
+1. Install dependencies and start React app in `client`
+2. Do the same in `server` folder
+
+## Tech Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
